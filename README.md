@@ -1,7 +1,9 @@
 # 🧮 Solvea – Numeric Calculator Web App
 
-Solvea is a clean, responsive, and keyboard-enabled **numeric calculator web application** built using **HTML, CSS, and Vanilla JavaScript**.  
+Solvea is a **clean, responsive, and keyboard-enabled numeric calculator web application** built using **HTML, CSS, and Vanilla JavaScript**.  
 It supports basic arithmetic operations with both **mouse and keyboard input**, making it fast, simple, and user-friendly.
+
+This project is ideal for **frontend practice**, **college mini projects**, and **portfolio showcasing**.
 
 ---
 
@@ -40,6 +42,7 @@ It supports basic arithmetic operations with both **mouse and keyboard input**, 
 ---
 
 ## 📂 Project Structure
+
 Solvea-Calculator/
 │
 ├── index.html
@@ -64,17 +67,6 @@ Solvea-Calculator/
 
 ---
 
-## ⚠️ Note on `eval()`
-
-This project uses `eval()` for simplicity and learning purposes.
-
-For production-level applications, consider:
-- Custom expression parsing
-- Manual operator handling
-- Math libraries (e.g., math.js)
-
----
-
 ## 📚 Learning Outcomes
 
 - DOM manipulation
@@ -87,8 +79,8 @@ For production-level applications, consider:
 
 ## 👨‍💻 Author
 
-**Sakthi aka (Sakthi Rithan)**  
-Frontend Learner | Project-Based Developer
+**Sakthi** (also known as **Sakthi Rithan**)  
+Frontend Learner | Project-Based Developer  
 
 ---
 
