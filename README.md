@@ -73,13 +73,22 @@ Solvea-Calculator/
 
 ---
 
+
+## 🌐 Live Demo
+
+🔗 Live App: https://solvea.netlify.app
+🔗 GitHub Repo: https://sakthirithan.github.io/Solvea-Numeric-Calculator.github.io/
+
+---
+
+
 ## ⚙️ How It Works
 
 1. Calculator buttons are handled using **event listeners**.
 2. User input is dynamically appended to the display.
 3. Special buttons (`AC`, `DEL`, `=`) are handled with conditional logic.
 4. Keyboard events are captured using `keydown`.
-5. Mathematical expressions are evaluated dynamically.
+5. Mathematical expressions are evaluated using controlled JavaScript logic (eval alternatives / validation).
 6. Speech assistant reads input or full expression based on user action.
 
 ---
